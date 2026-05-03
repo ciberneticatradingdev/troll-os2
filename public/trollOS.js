@@ -1,6 +1,6 @@
 // Troll-OS Main Application Logic
 // Global contract address variable
-const CONTRACT_ADDRESS = "mYxWP7gRgNR2aym5tRfa4XfMaWPBbcoQMVM2Zaipump"; // Replace with actual contract address
+const CONTRACT_ADDRESS = "CA WILL UPDATE SOON"; // Replace with actual contract address
 
 class TrollOS {
   constructor() {
